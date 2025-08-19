@@ -49,7 +49,7 @@ npm install
 
 ---
 
-##📊 Relatórios (Allure)
+## 📊 Relatórios (Allure)
 
 Se o projeto estiver configurado com Allure, é possível gerar relatórios gráficos detalhados:
 
