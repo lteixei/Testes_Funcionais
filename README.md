@@ -32,12 +32,12 @@ AutomacaoFuncional/
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Node.js 20.4.0** – runtime JavaScript  
-- **Cucumber.js** – BDD e testes descritivos  
-- **Playwright / Selenium WebDriver** – automação de navegador  
-- **Allure Reports** – relatórios profissionais  
-- **VSCode / WebStorm** – IDEs recomendadas  
-- **Git** – controle de versão  
+- **Node.js 20.4.0** – runtime JavaScript;  
+- **Cucumber.js** – BDD e testes descritivos;  
+- **Playwright / Selenium WebDriver** – automação de navegador;  
+- **Allure Reports** – relatórios profissionais;  
+- **VSCode / WebStorm** – IDEs recomendadas;  
+- **Git** – controle de versão.  
 
 ---
 
