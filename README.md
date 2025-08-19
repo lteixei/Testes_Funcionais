@@ -1,66 +1,51 @@
-##⚡ AutomacaoFuncional
+## 🛠️ Automação Funcional Web
 
-Automação de testes funcionais usando Cucumber.js, Selenium WebDriver e Node.js. Este projeto tem como objetivo validar funcionalidades críticas de aplicações web de forma estruturada e escalável.
+![Node.js](https://img.shields.io/badge/Node.js-20.4.0-green?logo=node.js)
+![Cucumber](https://img.shields.io/badge/Cucumber-9.1.0-brightgreen)
+![Allure](https://img.shields.io/badge/Allure-2.15.0-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-##📝 Tecnologias
-
-🟢 Node.js
-
-🌐 Selenium WebDriver
-
-🎯 Cucumber.js (BDD)
-
-🖥 Chromedriver / FirefoxDriver
-
-💾 JavaScript (ES6)
+> Estrutura completa de automação funcional de testes web, com validação de elementos, steps reutilizáveis e relatórios avançados.
 
 ---
 
-##🚀 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
 AutomacaoFuncional/  
 │  
-├─ features/                # Arquivos .feature (cenários de testes)  
-│   └─ homepage.feature  
+├─ features/  
+│ └─ homepage.feature        # Cenários de teste da página inicial  
+│ └─ login.feature           # Cenários de teste de login  
 │  
 ├─ src/  
-│   └─ steps/               # Definições dos steps (Given/When/Then)  
-│       └─ homepageSteps.js  
+│ ├─ steps/                  # Implementação dos steps do Cucumber  
+│ │ └─ homepageSteps.js  
+│ │ └─ loginSteps.js  
+│ └─ support/                # Configurações e hooks  
+│   └─ hooks.js  
 │  
-├─ package.json             # Gerenciador de dependências  
+├─ reports/                  # Relatórios gerados pelo Allure  
+├─ package.json              # Dependências e scripts do projeto  
 └─ README.md  
 
 ---
 
-##🧪 Execução dos Testes
+## 🚀 Tecnologias Utilizadas
 
-###Instale as dependências:
-
-npm install
-
-
-###Execute os testes:
-
-npx cucumber-js ./features --require ./src/steps/**/*.js
+- **Node.js 20.4.0** – runtime JavaScript  
+- **Cucumber.js** – BDD e testes descritivos  
+- **Playwright / Selenium WebDriver** – automação de navegador  
+- **Allure Reports** – relatórios profissionais  
+- **VSCode / WebStorm** – IDEs recomendadas  
+- **Git** – controle de versão  
 
 ---
 
-##Resultado esperado:
+## 🧪 Como Executar os Testes
 
-✅ Todos os cenários passam
-
-❌ Cenários com falha são exibidos no terminal com detalhes
-
-🌟 Funcionalidades Automatizadas
-
-📄 Acesso à página inicial
-
-🔍 Validação de elementos e textos na página
-
-🖱 Navegação entre seções
-
-🧩 Testes escaláveis e modulares
+1. Instale as dependências:  
+```bash
+npm install
 
 ---
 
@@ -70,3 +55,15 @@ Se o projeto estiver configurado com Allure, é possível gerar relatórios grá
 
 allure generate ./allure-results --clean -o ./allure-report
 allure open ./allure-report
+
+---
+
+## 🤝 Boas práticas para contribuições:  
+📌 Escreva código limpo, legível e documentado.  
+📌 Teste suas mudanças antes de enviar o Pull Request.  
+📌 Mantenha a consistência com o estilo e padrões do projeto.  
+📌 Discuta melhorias ou dúvidas antes de implementar grandes mudanças.  
+
+---
+
+## 📄 Licença Este projeto está licenciado sob a MIT License.
