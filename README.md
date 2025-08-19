@@ -35,12 +35,12 @@ AutomacaoFuncional/
 
 ##🧪 Execução dos Testes
 
-Instale as dependências:
+###Instale as dependências:
 
 npm install
 
 
-Execute os testes:
+###Execute os testes:
 
 npx cucumber-js ./features --require ./src/steps/**/*.js
 
@@ -61,6 +61,8 @@ npx cucumber-js ./features --require ./src/steps/**/*.js
 🖱 Navegação entre seções
 
 🧩 Testes escaláveis e modulares
+
+---
 
 ##📊 Relatórios (Allure)
 
