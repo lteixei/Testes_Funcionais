@@ -154,10 +154,10 @@ Execução gerenciada via Tosca Commander ou Tosca CI/CD Integration
 
 ## 👩‍💻 Contato
 - Informações	
-- Nome	[Seu Nome Completo]  
-- Cargo	QA Engineer / SDET / Líder Técnico  
+- Nome	Leonardo da Motta Teixeira  
+- Cargo	QA Engineer / Gestor / Tester-Sênior  
 - LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b  
-- E-mail	seu.email@exemplo.com  
+- E-mail	lteixei@hotmail.com  
 
 ---
 
