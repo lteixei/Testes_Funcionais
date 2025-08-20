@@ -3,7 +3,6 @@
 Este repositório apresenta uma base para implementação de Testes Funcionais, essenciais para garantir que a aplicação atenda aos requisitos e funcione corretamente do ponto de vista do usuário final.
 
 Os testes funcionais simulam interações reais com a aplicação, validando fluxos, elementos da interface e comportamentos esperados.
-automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
@@ -14,7 +13,6 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 ✅ Detecta problemas de interface e usabilidade;  
 ✅ Facilita a regressão automática durante o desenvolvimento;  
 ✅ Suporta integração com ferramentas de CI/CD;  
-automações abrangem testes Funcionais, Web, APIs e Performance.  
 
 ---
 
@@ -22,7 +20,6 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 | Linguagem           | Ferramenta                                             |
 |---------------------|--------------------------------------------------------|
 | JavaScript          | Cucumber + Selenium                                    |
-| automações          | abrangem testes Funcionais, Web, APIs e Performance.   | 
 
 ---
 
@@ -30,8 +27,7 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
   
 ✅ Node.js instalado (versão 12+ recomendada);  
 ✅ Navegador Chrome instalado;  
-✅ Dependências do projeto instaladas via npm/yarn;  
-automações abrangem testes Funcionais, Web, APIs e Performance.  
+✅ Dependências do projeto instaladas via npm/yarn;    
 
 ---
 
@@ -39,7 +35,6 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 | Instalar           | Dependências                                         |
 |--------------------|------------------------------------------------------|
 | npm install        | @cucumber/cucumber selenium-webdriver chromedriver   |
-| automações         | abrangem testes Funcionais, Web, APIs e Performance. | 
 
 ---
 
@@ -52,7 +47,6 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 ├── node_modules/
 ├── package.json
 └── README.md
-automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
