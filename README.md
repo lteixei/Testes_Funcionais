@@ -69,14 +69,12 @@ Then('eu vejo o texto {string}', async function (expectedText) {
   const body = await driver.findElement(By.tagName('body')).getText();  
   assert(body.includes(expectedText), `Texto "${expectedText}" não encontrado!`);  
   await driver.quit();  
-});  
-automações abrangem testes Funcionais, Web, APIs e Performance.  
+});    
 
 ---
 
 ## 🏃‍♂️ Como executar os testes
 npx cucumber-js  
-automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
