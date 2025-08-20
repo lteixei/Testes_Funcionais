@@ -1,6 +1,6 @@
 # 🧪 Projeto de Automação de Testes
 
-Este repositório contém a automação de testes desenvolvida para [nome do sistema ou projeto], com foco em alta cobertura, manutenibilidade e integração contínua. A automação abrange testes funcionais, mobile, APIs e performance.
+Este repositório contém a automação de testes desenvolvida por Leonardo da Motta Teixeira, com foco em alta cobertura, manutenibilidade e integração contínua. A automação abrange testes Funcionais, Web, APIs e Performance.
 
 ---
 
@@ -8,10 +8,12 @@ Este repositório contém a automação de testes desenvolvida para [nome do sis
 
 Profissional dinâmica, com perfil de liderança e foco em resultados. Tenho facilidade em motivar equipes para superar desafios complexos, mantendo a performance mesmo sob alta demanda ou pressão. Minha experiência inclui:
 
-- Excelente relacionamento interpessoal e foco no cliente
-- Coordenação de equipes de desenvolvimento e suporte
-- Implementação de soluções para ganho de produtividade
-- Visão estratégica voltada à entrega de valor e ROI
+- Excelente relacionamento interpessoal e foco no cliente, atuando como ponte entre áreas técnicas e de negócio para garantir entregas alinhadas às expectativas.
+- Coordenação de equipes de desenvolvimento, suporte e QA, promovendo colaboração entre times para acelerar a resolução de problemas e garantir qualidade desde as etapas iniciais do ciclo de vida do software.
+- Implementação de frameworks de testes automatizados (como Selenium, Cypress, ou ferramentas baseadas em CI/CD), promovendo cobertura eficiente de testes e reduzindo retrabalho em produção.
+- Criação e monitoramento de pipelines automatizados de testes integrados e regressivos, contribuindo diretamente para a melhoria contínua e ganho de produtividade dos times.
+- Visão estratégica voltada à entrega de valor e ROI, com foco em qualidade contínua, análise de risco e priorização de testes críticos para o negócio.
+Experiência em metodologias ágeis (Scrum, Kanban), garantindo ciclos curtos de feedback, testes frequentes e melhoria constante dos processos de QA.
 
 ### 🧠 Conhecimentos Técnicos
 
@@ -150,7 +152,7 @@ output.xml (Robot Framework)
 Informações	
 Nome	[Seu Nome Completo]
 Cargo	QA Engineer / SDET / Líder Técnico
-LinkedIn	linkedin.com/in/seu-usuario
+LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b
 
 E-mail	seu.email@exemplo.com
 
