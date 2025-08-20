@@ -26,12 +26,12 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
-## ⚙️ Pré-requisitos
-
-✅ Node.js instalado (versão 12+ recomendada);
-✅ Navegador Chrome instalado;
-✅ Dependências do projeto instaladas via npm/yarn.
-automações abrangem testes Funcionais, Web, APIs e Performance.
+## ⚙️ Pré-requisitos  
+  
+✅ Node.js instalado (versão 12+ recomendada);  
+✅ Navegador Chrome instalado;  
+✅ Dependências do projeto instaladas via npm/yarn;  
+automações abrangem testes Funcionais, Web, APIs e Performance.  
 
 ---
 
@@ -57,72 +57,59 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 ---
 
 ## 🔎 Exemplo Básico de Teste Funcional (steps.js)
-const { Given, Then, setDefaultTimeout } = require('@cucumber/cucumber');
-const { strict: assert } = require('assert');
-const { Builder, By } = require('selenium-webdriver');
-require('chromedriver');
-
-setDefaultTimeout(60000);
-
-let driver;
-
-Given('eu acesso a página {string}', async function (url) {
-  driver = await new Builder().forBrowser('chrome').build();
-  await driver.get(url);
-});
-
-Then('eu vejo o texto {string}', async function (expectedText) {
-  const body = await driver.findElement(By.tagName('body')).getText();
-  assert(body.includes(expectedText), `Texto "${expectedText}" não encontrado!`);
-  await driver.quit();
-});
-automações abrangem testes Funcionais, Web, APIs e Performance.
+const { Given, Then, setDefaultTimeout } = require('@cucumber/cucumber');  
+const { strict: assert } = require('assert');  
+const { Builder, By } = require('selenium-webdriver');  
+require('chromedriver');  
+  
+setDefaultTimeout(60000);  
+  
+let driver;  
+  
+Given('eu acesso a página {string}', async function (url) {  
+  driver = await new Builder().forBrowser('chrome').build();  
+  await driver.get(url);  
+});  
+  
+Then('eu vejo o texto {string}', async function (expectedText) {  
+  const body = await driver.findElement(By.tagName('body')).getText();  
+  assert(body.includes(expectedText), `Texto "${expectedText}" não encontrado!`);  
+  await driver.quit();  
+});  
+automações abrangem testes Funcionais, Web, APIs e Performance.  
 
 ---
 
 ## 🏃‍♂️ Como executar os testes
-npx cucumber-js
+npx cucumber-js  
 automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
 ## ✅ Boas Práticas
-| Ferramenta           | Descrição                                  |
-|---------------------|--------------------------------------------|
-| Cucumber             | Framework BDD para testes                  |
-| Gherkin              | Linguagem de escrita dos cenários          |
-| Selenium / Playwright| Automação de browser                       |
-| Cucumber             | Framework BDD para testes                  |
-| Gherkin              | Linguagem de escrita dos cenários          |
-| Selenium / Playwright| Automação de browser                       |
-Prática	Explicação
-Escrever cenários claros	Usar linguagem simples e direta para facilitar leitura
-Isolar testes	Evitar dependências entre cenários
-Manter ambiente limpo	Criar/limpar dados de teste para consistência
-Usar waits explícitos	Garantir que elementos estejam disponíveis antes de interagir
-Integrar com CI/CD	Automatizar execução e garantir qualidade contínua
-automações abrangem testes Funcionais, Web, APIs e Performance.
+| Prática                    | Explicação                                                     |
+|----------------------------|----------------------------------------------------------------|
+| Escrever cenários claros   | Usar linguagem simples e direta para facilitar leitura         |
+| Isolar testes	             | Evitar dependências entre cenários                             |
+| Manter ambiente limpo      | Criar/limpar dados de teste para consistência                  |
+| Usar waits explícitos      | Garantir que elementos estejam disponíveis antes de interagir  |
+| Integrar com CI/CD         | Automatizar execução e garantir qualidade contínua             |
 
 ---
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas!
+Contribuições são bem-vindas!  
 Abra uma Issue ou envie um Pull Request com melhorias, novos cenários ou exemplos de integração.
-automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
 ## 👩‍💻 Contato
 
-Nome: Leonardo da Motta Teixeira
-
-Cargo: QA Engineer / Gestor / Tester Sênior
-
-LinkedIn: linkedin.com/in/leonardo-da-motta-teixeira-3584734b
-
-E-mail: lteixei@hotmail.com
-automações abrangem testes Funcionais, Web, APIs e Performance.
+Nome: Leonardo da Motta Teixeira  
+Cargo: QA Engineer / Gestor / Tester Sênior  
+LinkedIn: linkedin.com/in/leonardo-da-motta-teixeira-3584734b  
+E-mail: lteixei@hotmail.com  
 
 ---
 
