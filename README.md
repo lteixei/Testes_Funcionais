@@ -46,8 +46,8 @@ AutomacaoFuncional/
 1. Instale as dependências:  
 ```bash
 npm install
-
----
+```
+```
 
 ## 📊 Relatórios (Allure)
 
