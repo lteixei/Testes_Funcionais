@@ -37,7 +37,7 @@ AutomacaoFuncional/
 - **Playwright / Selenium WebDriver** – automação de navegador;  
 - **Allure Reports** – relatórios profissionais;  
 - **VSCode / WebStorm** – IDEs recomendadas;  
-- **Git** – controle de versão.  
+- **Git** – controle de versão.
 
 ---
 
@@ -62,7 +62,7 @@ allure open ./allure-report
 📌 Escreva código limpo, legível e documentado.  
 📌 Teste suas mudanças antes de enviar o Pull Request.  
 📌 Mantenha a consistência com o estilo e padrões do projeto.  
-📌 Discuta melhorias ou dúvidas antes de implementar grandes mudanças.  
+📌 Discuta melhorias ou dúvidas antes de implementar grandes mudanças.
 
 ---
 
