@@ -132,24 +132,15 @@ Execução gerenciada via Tosca Commander ou Tosca CI/CD Integration
 
 ## 🧾 Relatórios
 
-Após a execução, os relatórios são gerados automaticamente na pasta /reports. Exemplos:
+- Após a execução, os relatórios são gerados automaticamente na pasta /reports. Exemplos:
 
-report.html (Pytest, Newman)
+- report.html (Pytest, Newman)
 
-allure-report/ (Allure)
+- allure-report/ (Allure)
 
-results.jtl (JMeter)
+- results.jtl (JMeter)
 
-output.xml (Robot Framework)
-
----
-
-## 📊 Relatórios (Allure)
-
-Se o projeto estiver configurado com Allure, é possível gerar relatórios gráficos detalhados:
-
-allure generate ./allure-results --clean -o ./allure-report
-allure open ./allure-report
+- output.xml (Robot Framework)
 
 ---
 
@@ -163,11 +154,11 @@ allure open ./allure-report
 
 ## 👩‍💻 Contato
 Informações	
-Nome	[Seu Nome Completo]
-Cargo	QA Engineer / SDET / Líder Técnico
-LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b
-
-E-mail	seu.email@exemplo.com
+Nome	[Seu Nome Completo]  
+Cargo	QA Engineer / SDET / Líder Técnico  
+LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b  
+  
+E-mail	seu.email@exemplo.com  
 
 ---
 
