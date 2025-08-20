@@ -1,6 +1,6 @@
 # 🧪 Projeto de Automação de Testes
 
-Este repositório contém a automação de testes desenvolvida por Leonardo da Motta Teixeira, com foco em alta cobertura, manutenibilidade e integração contínua. A automação abrange testes Funcionais, Web, APIs e Performance.
+Este repositório contém automações de testes, desenvolvida por Leonardo da Motta Teixeira, com foco em alta cobertura, manutenibilidade e integração contínua. As automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
