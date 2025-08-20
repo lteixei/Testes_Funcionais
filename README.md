@@ -15,6 +15,8 @@ Profissional dinâmica, com perfil de liderança e foco em resultados. Tenho fac
 - Visão estratégica voltada à entrega de valor e ROI, com foco em qualidade contínua, análise de risco e priorização de testes críticos para o negócio.
 Experiência em metodologias ágeis (Scrum, Kanban), garantindo ciclos curtos de feedback, testes frequentes e melhoria constante dos processos de QA.
 
+---
+
 ### 🧠 Conhecimentos Técnicos
 
 - **Gestão Ágil**: Scrum, Kanban, Gestão de Projetos, Microsoft Project
@@ -25,7 +27,7 @@ Experiência em metodologias ágeis (Scrum, Kanban), garantindo ciclos curtos de
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias de Conhecimento e Utilizadas
 ### 📌 Linguagens e Plataformas
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
@@ -78,11 +80,6 @@ Experiência em metodologias ágeis (Scrum, Kanban), garantindo ciclos curtos de
 ### ☁️ Plataformas de Testes em Nuvem
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-Automation-FF9900?logo=browserstack)
 ![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-Cloud_Testing-E2231A?logo=saucelabs)
-
----
-
-## 📁 Estrutura do Projeto
-
 
 ---
 
@@ -147,98 +144,6 @@ output.xml (Robot Framework)
 
 ---
 
-## 👩‍💻 Contato
-Informações	
-Nome	[Seu Nome Completo]
-Cargo	QA Engineer / SDET / Líder Técnico
-LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b
-
-E-mail	seu.email@exemplo.com
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob a MIT License
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🛠️ Automação Funcional Web
-
-![Node.js](https://img.shields.io/badge/Node.js-20.4.0-green?logo=node.js)
-![Cucumber](https://img.shields.io/badge/Cucumber-9.1.0-brightgreen)
-![Allure](https://img.shields.io/badge/Allure-2.15.0-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-> Estrutura completa de automação funcional de testes web, com validação de elementos, steps reutilizáveis e relatórios avançados.
-
----
-
-## 📂 Estrutura do Projeto
-
-AutomacaoFuncional/  
-│  
-├─ features/  
-│ └─ homepage.feature        # Cenários de teste da página inicial  
-│ └─ login.feature           # Cenários de teste de login  
-│  
-├─ src/  
-│ ├─ steps/                  # Implementação dos steps do Cucumber  
-│ │ └─ homepageSteps.js  
-│ │ └─ loginSteps.js  
-│ └─ support/                # Configurações e hooks  
-│   └─ hooks.js  
-│  
-├─ reports/                  # Relatórios gerados pelo Allure  
-├─ package.json              # Dependências e scripts do projeto  
-└─ README.md  
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **Node.js 20.4.0** – runtime JavaScript;  
-- **Cucumber.js** – BDD e testes descritivos;  
-- **Playwright / Selenium WebDriver** – automação de navegador;  
-- **Allure Reports** – relatórios profissionais;  
-- **VSCode / WebStorm** – IDEs recomendadas;  
-- **Git** – controle de versão.
-
----
-
-## 🧪 Como Executar os Testes
-
-1. Instale as dependências:  
-npm install
-
----
-
 ## 📊 Relatórios (Allure)
 
 Se o projeto estiver configurado com Allure, é possível gerar relatórios gráficos detalhados:
@@ -256,5 +161,16 @@ allure open ./allure-report
 
 ---
 
-## 📄 Licença
+## 👩‍💻 Contato
+Informações	
+Nome	[Seu Nome Completo]
+Cargo	QA Engineer / SDET / Líder Técnico
+LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b
+
+E-mail	seu.email@exemplo.com
+
+---
+
+## 📝 Licença
+
 Este projeto está licenciado sob a MIT License.
