@@ -44,10 +44,9 @@ AutomacaoFuncional/
 ## 🧪 Como Executar os Testes
 
 1. Instale as dependências:  
-```bash
 npm install
-```
-```
+
+---
 
 ## 📊 Relatórios (Allure)
 
