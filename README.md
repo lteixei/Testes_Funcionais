@@ -6,7 +6,7 @@ Este repositório contém a automação de testes desenvolvida por Leonardo da M
 
 ## 👤 Sobre Mim
 
-Profissional dinâmica, com perfil de liderança e foco em resultados. Tenho facilidade em motivar equipes para superar desafios complexos, mantendo a performance mesmo sob alta demanda ou pressão. Minha experiência inclui:
+Profissional dinâmico, com perfil de liderança e foco em resultados. Tenho facilidade em motivar equipes para superar desafios complexos, mantendo a performance mesmo sob alta demanda ou pressão. Minha experiência inclui:
 
 - Excelente relacionamento interpessoal e foco no cliente, atuando como ponte entre áreas técnicas e de negócio para garantir entregas alinhadas às expectativas.
 - Coordenação de equipes de desenvolvimento, suporte e QA, promovendo colaboração entre times para acelerar a resolução de problemas e garantir qualidade desde as etapas iniciais do ciclo de vida do software.
@@ -153,15 +153,14 @@ Execução gerenciada via Tosca Commander ou Tosca CI/CD Integration
 ---
 
 ## 👩‍💻 Contato
-Informações	
-Nome	[Seu Nome Completo]  
-Cargo	QA Engineer / SDET / Líder Técnico  
-LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b  
-  
-E-mail	seu.email@exemplo.com  
+- Informações	
+- Nome	[Seu Nome Completo]  
+- Cargo	QA Engineer / SDET / Líder Técnico  
+- LinkedIn	www.linkedin.com/in/leonardo-da-motta-teixeira-3584734b  
+- E-mail	seu.email@exemplo.com  
 
 ---
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a MIT License.
+- Este projeto está licenciado sob a MIT License.
