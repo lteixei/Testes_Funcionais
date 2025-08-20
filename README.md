@@ -26,7 +26,6 @@ Experiência em metodologias ágeis (Scrum, Kanban), garantindo ciclos curtos de
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
 ### 📌 Linguagens e Plataformas
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
