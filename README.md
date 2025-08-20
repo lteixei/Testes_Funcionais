@@ -1,4 +1,4 @@
-🚀 Testes Funcionais para Aplicações Web
+# 🚀 Testes Funcionais para Aplicações Web
 
 Este repositório apresenta uma base para implementação de Testes Funcionais, essenciais para garantir que a aplicação atenda aos requisitos e funcione corretamente do ponto de vista do usuário final.
 
@@ -7,21 +7,22 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 
 ---
 
-## 🎯 Por que usar Testes Funcionais?
-
-✅ Verifica a funcionalidade da aplicação na perspectiva do usuário;
-✅ Garante que os requisitos e regras de negócio sejam respeitados;
-✅ Detecta problemas de interface e usabilidade;
-✅ Facilita a regressão automática durante o desenvolvimento;
-✅ Suporta integração com ferramentas de CI/CD.
-automações abrangem testes Funcionais, Web, APIs e Performance.
+## 🎯 Por que usar Testes Funcionais?  
+  
+✅ Verifica a funcionalidade da aplicação na perspectiva do usuário;  
+✅ Garante que os requisitos e regras de negócio sejam respeitados;  
+✅ Detecta problemas de interface e usabilidade;  
+✅ Facilita a regressão automática durante o desenvolvimento;  
+✅ Suporta integração com ferramentas de CI/CD;  
+automações abrangem testes Funcionais, Web, APIs e Performance.  
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas Utilizadas
-Linguagem	Ferramenta
-JavaScript	Cucumber + Selenium
-automações abrangem testes Funcionais, Web, APIs e Performance.
+| Linguagem           | Ferramenta                                             |
+|---------------------|--------------------------------------------------------|
+| JavaScript          | Cucumber + Selenium                                    |
+| automações          | abrangem testes Funcionais, Web, APIs e Performance.   | 
 
 ---
 
@@ -35,9 +36,10 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 ---
 
 ## 📦 Instalação e Configuração (Exemplo JavaScript + Cucumber + Selenium)
-Instalar dependências
-npm install @cucumber/cucumber selenium-webdriver chromedriver
-automações abrangem testes Funcionais, Web, APIs e Performance.
+| Instalar           | Dependências                                         |
+|--------------------|------------------------------------------------------|
+| npm install        | @cucumber/cucumber selenium-webdriver chromedriver   |
+| automações         | abrangem testes Funcionais, Web, APIs e Performance. | 
 
 ---
 
@@ -85,6 +87,14 @@ automações abrangem testes Funcionais, Web, APIs e Performance.
 ---
 
 ## ✅ Boas Práticas
+| Ferramenta           | Descrição                                  |
+|---------------------|--------------------------------------------|
+| Cucumber             | Framework BDD para testes                  |
+| Gherkin              | Linguagem de escrita dos cenários          |
+| Selenium / Playwright| Automação de browser                       |
+| Cucumber             | Framework BDD para testes                  |
+| Gherkin              | Linguagem de escrita dos cenários          |
+| Selenium / Playwright| Automação de browser                       |
 Prática	Explicação
 Escrever cenários claros	Usar linguagem simples e direta para facilitar leitura
 Isolar testes	Evitar dependências entre cenários
